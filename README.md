@@ -31,6 +31,7 @@ while True:
   test(idea)  
   break_it(idea)  
   rebuild_better(idea)  
+  
 ---
 🏴‍☠️ Organization
 You can find more projects, code, and experiments in my organization:
@@ -39,11 +40,11 @@ You can find more projects, code, and experiments in my organization:
 
 I regularly upload:
 
-Codes
-Tools
-Tips
-Hardware experiments
-Creative side projects
+- Codes
+- Tools
+- Tips
+- Hardware experiments
+- Creative side projects
 
 ---
 ⚙️ Tech preferences
@@ -57,5 +58,6 @@ Creative coding
 Arduino
 C++
 
+---
 
-Translated with DeepL.com (free version)
+## Have Fun and code!!!
