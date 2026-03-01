@@ -22,15 +22,17 @@ This is where I create:
 - If something flashes, it was planned. If it smokes, it was a lesson.
 
 ---
-🧬 Experiment Loop
+🧬 **Experiment Loop**
 
-while True:  
-  idea = generate_random_idea()  
-  if interesting(idea):  
-  build(idea)  
-  test(idea)  
-  break_it(idea)  
-  rebuild_better(idea)  
+```python
+while True:
+    idea = generate_random_idea()
+    if interesting(idea):
+        build(idea)
+        test(idea)
+        break_it(idea)
+        rebuild_better(idea)
+```
   
 ---
 🏴‍☠️ Organization  
