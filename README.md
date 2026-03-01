@@ -7,7 +7,7 @@ I am a hobby experimenter with a penchant for technology, Raspberry Pi 5 project
 I build things to see if they work. I take things apart to understand why they worked. I improve things so they come back stronger.
 
 ---
-🍓 Raspberry Pi 5 Lab
+🍓 Raspberry Pi 5 Lab  
 My Raspberry Pi 5 is my digital laboratory.
 
 This is where I create:
