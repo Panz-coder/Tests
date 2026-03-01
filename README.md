@@ -1,2 +1,1 @@
-# Tests
-Here you can find my test-section.
+<p align="center"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/> </p> <p align="center"> <img src="https://img.shields.io/badge/Vibes-Dark_Mode-000000?style=for-the-badge&logo=linux"/> <img src="https://img.shields.io/badge/Status-Experimenting-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Device-Raspberry_Pi_5-C51A4A?style=for-the-badge&logo=raspberrypi"/> </p>
