@@ -56,8 +56,7 @@ I regularly upload:
 - Networking
 - Creative coding
 - Arduino
-- C++
+- C++  
 
----
 
 ## Have Fun and code!!!
