@@ -23,6 +23,7 @@ This is where I create:
 
 ---
 🧬 Experiment Loop
+
 while True:
 idea = generate_random_idea()
 if interesting(idea):
