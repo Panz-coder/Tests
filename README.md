@@ -1,6 +1,5 @@
 # Welcome to my coding area ;)
 
----
 🧠 About Me
 name: Panz 
 role: Hobby Experimenter & Creative Coder
