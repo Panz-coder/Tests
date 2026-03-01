@@ -1,8 +1,7 @@
 # Welcome to my coding area ;)
 
 🧠 About Me
-name: Panz 
-
+name: Panz  
 role: Hobby Experimenter & Creative Coder
 
 I am a hobby experimenter with a penchant for technology, Raspberry Pi 5 projects, and creative hacks.
