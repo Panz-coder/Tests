@@ -1,4 +1,4 @@
-#Welcome to my coding area ;)
+# Welcome to my coding area ;)
 
 ---
 🧠 About Me
