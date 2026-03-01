@@ -36,9 +36,9 @@ Wenn es raucht, war es eine Lektion.
 
 ## 🧬 Experiment Loop
 
--while True:
+- while True:
    - idea = generate_random_idea()
-  -  if interesting(idea):
+   - if interesting(idea):
       -  build(idea)
       -  test(idea)
       -  break_it(idea)
@@ -61,7 +61,7 @@ Dort lade ich regelmäßig hoch:
 
 ---
 
-## ⚙️ Tech Arsenal
+## ⚙️ Technikvorlieben
 
 - Linux
 - Python
@@ -73,39 +73,3 @@ Dort lade ich regelmäßig hoch:
 - Dark Mode
 
 ---
-
-## 🌑 Philosophie
-
-Hardware ist ehrlich.
-Code ist kreativ.
-Experimentieren ist Freiheit.
-
-Neugier > Perfektion.
-Lernen > Angst.
-Bauen > Reden.
-
----
-
-## 🔥 Status
-
-[██████████░░░░░░░░░░] running experiment...
-
----
-
-## 🐹 Hamster Protocol
-
-if bored:
-    build()
-
-if working:
-    optimize()
-
-if broken:
-    disassemble()
-    learn()
-    upgrade()
-
----
-
-Panz
-Digital Hamster.
