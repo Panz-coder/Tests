@@ -1,9 +1,3 @@
-# 🐹 PANZ — Digital Hamster Laboratory
-
-> booting panz@lab...
-> loading creativity modules...
-> raspberry_pi_5: connected
-> dark_hacker_vibes: enabled
 
 ---
 
@@ -11,8 +5,6 @@
 
 name: Panz
 role: Hobby Experimenter & Creative Coder
-mode: Dark
-mission: Build. Break. Understand. Improve.
 
 Ich bin ein Hobby-Experimentierer mit einer Vorliebe für Technik,
 Raspberry Pi 5 Projekte und kreative Hacks.
@@ -44,13 +36,13 @@ Wenn es raucht, war es eine Lektion.
 
 ## 🧬 Experiment Loop
 
-while True:
-    idea = generate_random_idea()
-    if interesting(idea):
-        build(idea)
-        test(idea)
-        break_it(idea)
-        rebuild_better(idea)
+-while True:
+   - idea = generate_random_idea()
+  -  if interesting(idea):
+      -  build(idea)
+      -  test(idea)
+      -  break_it(idea)
+      -  rebuild_better(idea)
 
 ---
 
