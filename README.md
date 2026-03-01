@@ -24,14 +24,13 @@ This is where I create:
 ---
 🧬 Experiment Loop
 
-while True:
-idea = generate_random_idea()
-if interesting(idea):
-build(idea)
-test(idea)
-break_it(idea)
-rebuild_better(idea)
-
+while True:  
+  idea = generate_random_idea()  
+  if interesting(idea):  
+  build(idea)  
+  test(idea)  
+  break_it(idea)  
+  rebuild_better(idea)  
 ---
 🏴‍☠️ Organization
 You can find more projects, code, and experiments in my organization:
