@@ -33,7 +33,7 @@ while True:
   rebuild_better(idea)  
   
 ---
-🏴‍☠️ Organization
+🏴‍☠️ Organization  
 You can find more projects, code, and experiments in my organization:
 
 @Panzagarian
@@ -48,15 +48,15 @@ I regularly upload:
 
 ---
 ⚙️ Tech preferences
-Linux
-Python
-Raspberry Pi 5
-GPIO
-Microcontrollers
-Networking
-Creative coding
-Arduino
-C++
+- Linux
+- Python
+- Raspberry Pi 5
+- GPIO
+- Microcontrollers
+- Networking
+- Creative coding
+- Arduino
+- C++
 
 ---
 
